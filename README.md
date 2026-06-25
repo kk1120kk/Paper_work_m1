@@ -4,8 +4,8 @@
 
 
 ### 1), Download data  
-  Download the SVD dataset in [here](https://zenodo.org/records/16874898). Or download SVD at [here](https://stimmdb.coli.uni-saarland.de/)  
-  Download the Perceptual Voice Qualities Database (PVQD) in [here](https://data.mendeley.com/datasets/9dz247gnyb/4).  
+  Download the SVD dataset at [here](https://zenodo.org/records/16874898). Or download SVD at [here](https://stimmdb.coli.uni-saarland.de/)  
+  Download the Perceptual Voice Qualities Database (PVQD) at [here](https://data.mendeley.com/datasets/9dz247gnyb/4).  
   Alternatively, download our prepared demo datasets for initial testing.[SVD deomo](https://1drv.ms/u/c/c358f1155eb8fb7f/IQDZYbwfDd8aQa7jy9wwbVdZAWhkvatS5m6048bGtx2-FTc?e=KpA0eE) and [PVQD deomo](https://1drv.ms/u/c/c358f1155eb8fb7f/IQC-dO-LXDW7Ro8BTCu0DAPgAc_-L4EG97zash7ElppNMMI?e=t2xTGc)  
   Alternatively, download our pre-processed data to run full inference.[full SVD processed data](https://1drv.ms/u/c/c358f1155eb8fb7f/IQD6fhILg-snQ4PXjW-Au6LlAaIm0BlTaIdBAzdw-qCgWoE?e=Gm1RTO) and [full PVQD processed data](https://1drv.ms/u/c/c358f1155eb8fb7f/IQDUuoKCIq1USLbZ4Ea68zrzASDJel6r2OWCouGQlj0N3hc?e=NHMQTb)
 
